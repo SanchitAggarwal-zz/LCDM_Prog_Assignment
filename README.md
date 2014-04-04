@@ -5,4 +5,4 @@ The sample programming task is to read in an astronomy image, find the center of
 
 Following is the output of the code:
 
-![ScreenShot](/LCDM_Prog_Assignment/blob/master/output.png)
+![ScreenShot](output.png)
