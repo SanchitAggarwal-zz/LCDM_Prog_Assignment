@@ -5,4 +5,4 @@ The sample programming task is to read in an astronomy image, find the center of
 
 Following is the output of the code:
 
-![ScreenShot](https://github.com/SanchitAggarwal/LCDM_Prog_Assignment/blob/master/output.png)
+![ScreenShot](/LCDM_Prog_Assignment/blob/master/output.png)
